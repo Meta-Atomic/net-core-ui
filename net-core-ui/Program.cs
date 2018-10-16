@@ -14,6 +14,7 @@ namespace net_core_ui
     {
         public static void Main(string[] args)
         {
+            // this is silly
             CreateWebHostBuilder(args).Build().Run();
         }
 
